@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+span.p-menuitem-text {
+  color: rgb(125, 124, 133)  !important;;
+}
+

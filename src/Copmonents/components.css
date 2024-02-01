@@ -1,0 +1,28 @@
+.navi{
+    color: #f3f3f3 !important;
+    background-color: #2d1a46 !important;
+    
+    /* font: red !important; */
+    
+    }
+
+    .form-demo .card {
+        min-width: 450px;
+    }
+    .form-demo .card form {
+        margin-top: 2rem;
+    }
+    .form-demo .card .field {
+        margin-bottom: 1.5rem;
+    }
+    @media screen and (max-width: 960px) {
+        .form-demo .card {
+            width: 80%;
+        }
+    }
+    @media screen and (max-width: 640px) {
+        .form-demo .card {
+            width: 100%;
+            min-width: 0;
+        }
+    }
